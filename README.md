@@ -1,1 +1,1 @@
-# ㅅTicTaeToc Repo
+# TicTaeToc Repo
